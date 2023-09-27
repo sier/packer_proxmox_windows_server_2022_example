@@ -2,13 +2,13 @@
 An example for setting up Windows VMs using Packer for Proxmox
 
 ## Pre-requisites
-- * [Packer](https://www.packer.io/downloads) (I recommend using [Chocolatey](https://chocolatey.org/install))
-- * [VirtIO Drivers ISO](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/)
+- *[Packer](https://www.packer.io/downloads) (I recommend using [Chocolatey](https://chocolatey.org/install))
+- *[VirtIO Drivers ISO](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/)
 - [Proxmox](https://www.proxmox.com/en/downloads)
 - [Windows Server 2022 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 - imgburn (or similar) to create the autounattend ISO
 
-* = Required
+\* = Required
 
 
 ## Commands & Installation
